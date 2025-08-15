@@ -34,8 +34,6 @@ Key insights:
 - **Semiurban areas** showed slightly higher approval rates.
 - **Credit History** is the most significant factor in loan approval.
 
-Example plots:
-![EDA Example](data/edit2.csv)
 
 ---
 
