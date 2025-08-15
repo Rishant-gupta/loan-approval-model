@@ -35,7 +35,7 @@ Key insights:
 - **Credit History** is the most significant factor in loan approval.
 
 Example plots:
-![EDA Example](images/eda_plot1.png)
+![EDA Example](data/edit2.csv)
 
 ---
 
