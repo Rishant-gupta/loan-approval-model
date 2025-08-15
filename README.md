@@ -22,10 +22,8 @@ The best performance was achieved using **Logistic Regression** with an **averag
    - Mode for categorical columns  
 2. **Encoding**
    - Label encoding for Loan_Status
-   - One-hot encoding for categorical variables using Pandas  
-3. **Feature Scaling**  
-   - StandardScaler used for Logistic Regression  
-4. **Outlier Treatment**  
+   - One-hot encoding for categorical variables using Pandas   
+3. **Outlier Treatment**  
    - Statistical outliers reviewed manually; realistic values retained to preserve data diversity
 
 ---
@@ -38,7 +36,6 @@ Key insights:
 
 Example plots:
 ![EDA Example](images/eda_plot1.png)
-![Correlation Heatmap](images/heatmap.png)
 
 ---
 
