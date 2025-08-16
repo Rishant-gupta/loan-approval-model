@@ -52,9 +52,17 @@ Models used:
 
 **Best Model:** Logistic Regression (balanced performance + interpretability)
 
+## Sreamlit interface
+- **Logistic Regression model is used**
+- **models.pkl contains train model data**
+- **model_column contains train data structure** 
 ---
 
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Loan_Approval_Model.git
+2. Go to terminal command
+streamlit run app.pkl
+
+
