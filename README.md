@@ -61,7 +61,7 @@ Models used:
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Loan_Approval_Model.git
+git clone https://github.com/Rishant-gupta/loan_approval_model.git
 2. Go to terminal command
 streamlit run app.pkl
 
